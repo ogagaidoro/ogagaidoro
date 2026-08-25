@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 553 228" role="img" aria-label="OG Portfolio">
+  <filter id="transparent-black" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+    <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  1 1 1 0 0" />
+  </filter>
+  <image href="../logo.PNG" width="553" height="228" filter="url(#transparent-black)" />
+</svg>
